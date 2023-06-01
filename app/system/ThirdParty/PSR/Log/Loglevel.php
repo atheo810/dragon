@@ -14,4 +14,5 @@ namespace Psr\Log;
     const NOTICE = 'notice';
     const INFO = 'info';
     const DEBUG = 'debug';
+    const WARNING = 'warning';
  }
