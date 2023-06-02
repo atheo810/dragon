@@ -69,7 +69,7 @@ if (!defined('TESTPATH')) {
  */
 
 if(!defined('APP_NAMESPACE')){
-    require_once APPPATH . 'Config/Common.php';
+    require_once APPPATH . 'Config/Constants.php';
 }
 
 // Require app/Common.php file if exists
