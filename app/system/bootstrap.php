@@ -1,6 +1,6 @@
 <?php
 
-use Dragon\Config\Paths;
+use Config\Paths;
 
 /**
  * This file is part of CodeIgniter 4 framework.
